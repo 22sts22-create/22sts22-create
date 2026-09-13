@@ -19,7 +19,6 @@ ________________________________________
 Trading & Finance Tools · Backtesting · Market Data · Data Analysis · Browser-based Apps
 ________________________________________
 📫 Reach me
-🌐 https://alphabreakoutlab.com
 📧 22sts22@gmail.com
 🔗 www.linkedin.com/in/sultan-shandon-95536614b/
 
